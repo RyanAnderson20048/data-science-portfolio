@@ -1,7 +1,7 @@
 # Ryan Anderson's Data Science Portfolio
 
 ## Introduction
-Welcome to my portfolio! I am a student taking CISC7204. I am passionate about extracting insights from data and presenting them visually.
+Welcome to my portfolio! I am continuously learning new data skills. I am a student taking CISC7204. I am passionate about extracting insights from data and presenting them visually.
 
 ## Technical Skills
 - Python (Pandas, Matplotlib)
