@@ -23,3 +23,4 @@ Welcome to my portfolio! I am continuously learning new data skills. I am a stud
 **Project Repository Link:** [Click here to view the source code and full analysis](https://github.com/RyanAnderson20048/data-science-project)
 
 **Status:** Completed
+Updated introduction based on peer feedback
